@@ -2,7 +2,7 @@
 ---
 > Made with [Vue.js](https://vuejs.org/), [Vuex](https://vuex.vuejs.org/en/) and [Buefy](https://buefy.github.io)
 >
-> This is the client, use it with this server: https://github.com/tobiasbeuving/node-websocket-chatserver 
+> This is the client, use it with this server: https://github.com/gurleen3/node-chat-server
 ---
 
 ## Features
